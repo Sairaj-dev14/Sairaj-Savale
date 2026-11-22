@@ -1,67 +1,91 @@
-# Sairaj Savale
+<h1 align="center">SAIRAJ SAVALE</h1>
 
-### Software Developer | AI & Automation | Application Development
+<h3 align="center">Software Developer | AI Enthusiast | Technology Explorer</h3>
 
-I'm an aspiring software developer interested in building practical technology solutions. I enjoy exploring new technologies, experimenting with ideas, and turning concepts into functional projects.
+<p align="center">
+  Building practical software solutions through experimentation, engineering and continuous learning.
+</p>
 
-My interests span Artificial Intelligence, software development, mobile applications, and embedded systems.
-
----
-
-### ABOUT
-
-- Exploring AI-powered applications and intelligent automation.
-- Developing cross-platform applications using Flutter.
-- Working with Python and exploring embedded systems.
-- Interested in software engineering, IoT, and emerging technologies.
-- Focused on learning through hands-on development.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Developer-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-Mobile%20Development-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-Exploration-222222?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embedded-Systems-00979D?style=flat-square&logo=arduino&logoColor=white" />
+</p>
 
 ---
 
-### TECH STACK & TOOLS
+## ABOUT ME
 
-**Languages**
+I'm an aspiring software developer passionate about building technology-driven solutions and exploring the intersection of software, artificial intelligence and hardware.
 
-Python · Dart · C · C++ (Learning)
+I enjoy taking ideas from concept to implementation, experimenting with new technologies and learning through practical development.
 
-**Development**
-
-Flutter · Arduino · ESP32
-
-**AI & Automation**
-
-Ollama · LLM Integration · AI-powered applications
-
-**Tools**
-
-Git · GitHub · VS Code
+- Exploring Artificial Intelligence and LLM integration.
+- Developing cross-platform applications with Flutter.
+- Building Python-based applications and automation tools.
+- Exploring Embedded Systems and IoT.
+- Interested in engineering, innovation and product development.
 
 ---
 
-### FEATURED PROJECTS
+## TECHNICAL INTERESTS
 
-| Project | Description | Domain |
-|---|---|---|
-| AURA AI | AI-powered desktop assistant with voice interaction and task automation. | Artificial Intelligence |
-| IDLEEYE | Connected household appliance monitoring and control system. | IoT & Embedded Systems |
-| IDLEEYE Mobile | Flutter companion application for the IDLEEYE ecosystem. | Mobile Development |
-| Offline Social | An offline-first social networking application. | Application Development |
+| Category | Technologies |
+|---|---|
+| Programming | Python, Dart, C/C++ |
+| Application Development | Flutter |
+| Artificial Intelligence | Ollama, LLM Integration |
+| Embedded Systems | Arduino, ESP32 |
+| Development Tools | Git, GitHub, VS Code |
 
 ---
 
-### CURRENTLY EXPLORING
+## FEATURED PROJECTS
 
-- Artificial Intelligence & LLM integration
-- Flutter application development
+### AURA AI
+An AI-powered desktop assistant designed for voice interaction, intelligent assistance and desktop automation.
+
+### IDLEEYE
+A connected household appliance monitoring and control system exploring practical IoT applications.
+
+### IDLEEYE MOBILE
+A Flutter-based companion application designed to interact with the IDLEEYE ecosystem.
+
+### OFFLINE SOCIAL
+An offline-first social networking application exploring local data storage and social application design.
+
+---
+
+## CURRENT FOCUS
+
+- AI-powered application development
+- Flutter and mobile application engineering
 - Embedded systems and IoT
-- Software architecture and product development
+- Software architecture and development practices
 
 ---
 
-### CONNECT
+## GITHUB ANALYTICS
 
-[GitHub](https://github.com/Quantum-potato-sure) .
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sairaj-dev14&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sairaj-dev14&layout=compact&theme=transparent&hide_border=true" />
+</p>
 
 ---
 
-*Building, experimenting, learning, and improving....
+## CONNECT WITH ME
+
+<p align="center">
+  <a href="https://github.com/Sairaj-dev14">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/Sairaj Savale">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Build. Experiment. Learn. Repeat.</i>
+</p>
